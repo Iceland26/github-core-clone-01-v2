@@ -1,5 +1,10 @@
 # github-core-clone-01
 
+[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-7C3AED)](https://make.fun/bounty/github-core-clone-01)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+Built for the [github-core-clone-01 bounty on make.fun](https://make.fun/bounty/github-core-clone-01) — a standalone, GitHub-compatible git forge competition ($500 prize pool, 20 paid places).
+
 A small, self-contained, GitHub-compatible git forge written in TypeScript for
 Node.js 22+. It uses **only the Node.js standard library** (`node:http`,
 `node:zlib`, `node:crypto`): no npm dependencies, no `git` binary, and no
